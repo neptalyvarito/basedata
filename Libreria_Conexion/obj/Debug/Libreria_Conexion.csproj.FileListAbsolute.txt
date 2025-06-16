@@ -1,0 +1,6 @@
+C:\Users\neptaly\Downloads\Libreria_Conexion\obj\Debug\Libreria_Conexion.csproj.AssemblyReference.cache
+C:\Users\neptaly\Downloads\Libreria_Conexion\obj\Debug\Libreria_Conexion.csproj.CoreCompileInputs.cache
+C:\Users\neptaly\Downloads\Libreria_Conexion\bin\Debug\Libreria_Conexion.dll
+C:\Users\neptaly\Downloads\Libreria_Conexion\bin\Debug\Libreria_Conexion.pdb
+C:\Users\neptaly\Downloads\Libreria_Conexion\obj\Debug\Libreria_Conexion.dll
+C:\Users\neptaly\Downloads\Libreria_Conexion\obj\Debug\Libreria_Conexion.pdb
