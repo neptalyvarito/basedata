@@ -1,0 +1,32 @@
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\bin\Debug\aerolinea.exe.config
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\bin\Debug\aerolinea.exe
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\bin\Debug\aerolinea.pdb
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.csproj.AssemblyReference.cache
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.Properties.Resources.resources
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.csproj.GenerateResource.cache
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.exe
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.pdb
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.exe.config
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.MainLatam.resources
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.EscogerFecha.resources
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.BuscarVuelo.resources
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.Latam.resources
+C:\Users\atom\OneDrive\Documentos\mirelllly\CICLO V\BASE DE DAATOS\aerolinea\obj\Debug\aerolinea.BuscarAsiento.resources
+C:\Users\neptaly\Downloads\aerolinea\bin\Debug\aerolinea.exe.config
+C:\Users\neptaly\Downloads\aerolinea\bin\Debug\aerolinea.exe
+C:\Users\neptaly\Downloads\aerolinea\bin\Debug\aerolinea.pdb
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.csproj.AssemblyReference.cache
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.BuscarAsiento.resources
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.MainLatam.resources
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.EscogerFecha.resources
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.BuscarVuelo.resources
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.Latam.resources
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.Properties.Resources.resources
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.csproj.GenerateResource.cache
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.csproj.CoreCompileInputs.cache
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.exe
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.pdb
+C:\Users\neptaly\Downloads\aerolinea\bin\Debug\Libreria_Conexion.dll
+C:\Users\neptaly\Downloads\aerolinea\bin\Debug\Libreria_Conexion.pdb
+C:\Users\neptaly\Downloads\aerolinea\obj\Debug\aerolinea.csproj.Up2Date
