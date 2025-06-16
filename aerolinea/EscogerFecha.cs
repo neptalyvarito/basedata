@@ -27,7 +27,7 @@ namespace aerolinea
 
         private void btnBuscarVuelos_Click(object sender, EventArgs e)
         {
-            BuscarVuelo form3 = new BuscarVuelo(cmbDesdeOrigen.SelectedValue.ToString(), cmbHaciaDestino.SelectedValue.ToString(), fechaIda.Value);
+            BuscarVuelo form3 = new BuscarVuelo(cmbDesdeOrigen.SelectedValue.ToString(), cmbHaciaDestino.SelectedValue.ToString(), fechaIda.Value, cmbCabina.SelectedValue.ToString());
             form3.Show();
             this.Hide();
         }

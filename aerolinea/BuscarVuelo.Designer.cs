@@ -33,6 +33,12 @@
             this.dtgTarifas = new System.Windows.Forms.DataGridView();
             this.btnCliente = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Cod_Vuelo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Cod_Aeropuerto_Origen = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Cod_Aeropuerto_Destino = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Fecha_Salida = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Fecha_Llegada = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Costo_Vuelo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dtgVuelosDisponibles)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgTarifas)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -53,6 +59,13 @@
             // dtgVuelosDisponibles
             // 
             this.dtgVuelosDisponibles.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgVuelosDisponibles.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Cod_Vuelo,
+            this.Cod_Aeropuerto_Origen,
+            this.Cod_Aeropuerto_Destino,
+            this.Fecha_Salida,
+            this.Fecha_Llegada,
+            this.Costo_Vuelo});
             this.dtgVuelosDisponibles.Location = new System.Drawing.Point(21, 110);
             this.dtgVuelosDisponibles.Margin = new System.Windows.Forms.Padding(2);
             this.dtgVuelosDisponibles.Name = "dtgVuelosDisponibles";
@@ -60,7 +73,7 @@
             this.dtgVuelosDisponibles.RowTemplate.Height = 24;
             this.dtgVuelosDisponibles.Size = new System.Drawing.Size(427, 347);
             this.dtgVuelosDisponibles.TabIndex = 10;
-            // 
+           // 
             // dtgTarifas
             // 
             this.dtgTarifas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -97,6 +110,42 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // Cod_Vuelo
+            // 
+            this.Cod_Vuelo.DataPropertyName = "Cod_Vuelo";
+            this.Cod_Vuelo.HeaderText = "Vuelo";
+            this.Cod_Vuelo.Name = "Cod_Vuelo";
+            // 
+            // Cod_Aeropuerto_Origen
+            // 
+            this.Cod_Aeropuerto_Origen.DataPropertyName = "Cod_Aeropuerto_Origen";
+            this.Cod_Aeropuerto_Origen.HeaderText = "Aeropuerto Salida";
+            this.Cod_Aeropuerto_Origen.Name = "Cod_Aeropuerto_Origen";
+            // 
+            // Cod_Aeropuerto_Destino
+            // 
+            this.Cod_Aeropuerto_Destino.DataPropertyName = "Cod_Aeropuerto_Destino";
+            this.Cod_Aeropuerto_Destino.HeaderText = "Aeropuerto Destino";
+            this.Cod_Aeropuerto_Destino.Name = "Cod_Aeropuerto_Destino";
+            // 
+            // Fecha_Salida
+            // 
+            this.Fecha_Salida.DataPropertyName = "Fecha_Salida";
+            this.Fecha_Salida.HeaderText = "Fecha Salida";
+            this.Fecha_Salida.Name = "Fecha_Salida";
+            // 
+            // Fecha_Llegada
+            // 
+            this.Fecha_Llegada.DataPropertyName = "Fecha_Llegada";
+            this.Fecha_Llegada.HeaderText = "Fecha llegada";
+            this.Fecha_Llegada.Name = "Fecha_Llegada";
+            // 
+            // Costo_Vuelo
+            // 
+            this.Costo_Vuelo.DataPropertyName = "Costo_Vuelo";
+            this.Costo_Vuelo.HeaderText = "Costo vuelo";
+            this.Costo_Vuelo.Name = "Costo_Vuelo";
+            // 
             // BuscarVuelo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -126,5 +175,11 @@
         private System.Windows.Forms.DataGridView dtgVuelosDisponibles;
         private System.Windows.Forms.DataGridView dtgTarifas;
         private System.Windows.Forms.Button btnCliente;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Cod_Vuelo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Cod_Aeropuerto_Origen;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Cod_Aeropuerto_Destino;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Fecha_Salida;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Fecha_Llegada;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Costo_Vuelo;
     }
 }

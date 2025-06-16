@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\basedata\\basedata\\aerolinea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|c:\\basedata\\basedata\\aerolinea\\buscarvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|solutionrelative:buscarvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|c:\\basedata\\basedata\\aerolinea\\buscarasiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|solutionrelative:buscarasiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|c:\\basedata\\basedata\\aerolinea\\escogerfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|solutionrelative:escogerfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|c:\\basedata\\basedata\\aerolinea\\buscarvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|solutionrelative:buscarvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37CBEA9-3BC9-453B-8DC0-2A07AD645271}|..\\Libreria_Conexion\\Libreria_Conexion.csproj|c:\\basedata\\basedata\\libreria_conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|c:\\basedata\\basedata\\aerolinea\\escogerfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C82298FB-C733-4CBF-A2E9-0E9D620F8A3D}|aerolinea.csproj|solutionrelative:escogerfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\basedata\\basedata\\Libreria_Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\Libreria_Conexion\\Conexion.cs",
+              "ToolTip": "C:\\basedata\\basedata\\Libreria_Conexion\\Conexion.cs",
+              "RelativeToolTip": "..\\Libreria_Conexion\\Conexion.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwE0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:27:51.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuscarVuelo.cs",
+              "DocumentMoniker": "C:\\basedata\\basedata\\aerolinea\\BuscarVuelo.cs",
+              "RelativeDocumentMoniker": "BuscarVuelo.cs",
+              "ToolTip": "C:\\basedata\\basedata\\aerolinea\\BuscarVuelo.cs",
+              "RelativeToolTip": "BuscarVuelo.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:22:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EscogerFecha.cs",
+              "DocumentMoniker": "C:\\basedata\\basedata\\aerolinea\\EscogerFecha.cs",
+              "RelativeDocumentMoniker": "EscogerFecha.cs",
+              "ToolTip": "C:\\basedata\\basedata\\aerolinea\\EscogerFecha.cs",
+              "RelativeToolTip": "EscogerFecha.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB0AAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:22:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuscarAsiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\basedata\\basedata\\aerolinea\\BuscarAsiento.cs",
+              "RelativeDocumentMoniker": "BuscarAsiento.cs",
+              "ToolTip": "C:\\basedata\\basedata\\aerolinea\\BuscarAsiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BuscarAsiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:22:12.739Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuscarVuelo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\basedata\\basedata\\aerolinea\\BuscarVuelo.cs",
+              "RelativeDocumentMoniker": "BuscarVuelo.cs",
+              "ToolTip": "C:\\basedata\\basedata\\aerolinea\\BuscarVuelo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BuscarVuelo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:22:09.359Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EscogerFecha.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\basedata\\basedata\\aerolinea\\EscogerFecha.cs",
+              "RelativeDocumentMoniker": "EscogerFecha.cs",
+              "ToolTip": "C:\\basedata\\basedata\\aerolinea\\EscogerFecha.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EscogerFecha.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:22:13.8Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
